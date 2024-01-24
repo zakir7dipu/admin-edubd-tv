@@ -1,0 +1,19 @@
+
+.theme-color{
+    margin-bottom: 50px;
+}
+.hover-color {
+    position: absolute;
+    top: 42px;
+    left: 12px;
+    display: flex;
+}
+.hover-color .hover-title {
+    width: 43% !important;
+    padding-top: 10px;
+}
+.hover-color .hover-value{
+    width: 52.6% !important;
+}
+
+
